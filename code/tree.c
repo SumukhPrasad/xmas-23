@@ -29,7 +29,7 @@
          (size_t x = 0; x < W;/**/
         x++) {printf("%c",/*******/
        sbuf[y][x][0]);}printf("\n\r")
-     ;}printf("Merry christmas!\n\r");}
+     ;}printf("Merry Christmas!\n\r");}
   int raX() {srand(time(0)); return (rand()
 % (80));}void rsn() {for (int i = 0; i < S_C;
               ++i){snfks[i].y

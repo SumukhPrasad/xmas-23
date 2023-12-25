@@ -39,7 +39,7 @@ void renderScreen() {
           }
           printf("\n\r");
      }
-     printf("Merry christmas!\n\r");
+     printf("Merry Christmas!\n\r");
 }
 
 int randomX() {
