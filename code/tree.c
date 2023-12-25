@@ -16,8 +16,7 @@
               struct {int
             x,y;} Snowflake;
           Snowflake snfks[S_C];
-        unsigned long long frame
-       = 0;char wbuf[H][W][1];char
+         char wbuf[H][W][1];char
      sbuf[H][W][1];void init() {for
               (size_t y = 0;
              y < H; y++) {for

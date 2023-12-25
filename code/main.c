@@ -15,7 +15,6 @@ typedef struct {
 
 Snowflake snowflakes[SNOWFLAKE_COUNT];
 
-unsigned long long frame = 0;
 char workingbuf[H][W][1];
 char screenbuf[H][W][1];
 
