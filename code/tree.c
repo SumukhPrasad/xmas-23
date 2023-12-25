@@ -18,13 +18,13 @@
           Snowflake snfks[S_C];
          char wbuf[H][W][1];char
      sbuf[H][W][1];void init() {for
-              (size_t y = 0;
-             y < H; y++) {for
-           (size_t x = 0; x < W;
-         x++) {wbuf[y][x][0]=' ';}}
-        for(int i = 0; i < S_C; ++i)
-      {snfks[i].x=rand() % W;snfks[i].y
-   = rand() % H;}}void rsc() {for (size_t
+             (size_t y = 0;
+            y < H; y++) {for
+          (size_t x = 0; x < W;
+       x++) {wbuf[y][x][0]=' ';}}
+      for(int i = 0; i < S_C; ++i)
+    {snfks[i].x=rand() % W;snfks[i].y
+  = rand() % H;}}void rsc() {for (size_t
           y = 0; y < H; y++) {for
          (size_t x = 0; x < W;/**/
         x++) {printf("%c",/*******/
